@@ -6,7 +6,7 @@
 
 ## 如何加入打点
 
-用浏览器访问 https://developer.dotwallet.com
+用浏览器访问 https://developers.dotwallet.com
 
 申请成功后预计 1-3 个工作日回复
 
